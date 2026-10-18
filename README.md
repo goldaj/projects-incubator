@@ -28,3 +28,10 @@ Ce dépôt est public par choix de son auteur. Il ne contient **ni clés API, ni
 ## Profil
 
 Ces travaux illustrent la démarche Product Owner : formulation de besoins, explorations fonctionnelles, estimation de valeur, contraintes techniques et priorisation d'un portefeuille d'initiatives.
+
+
+## Recherches et travaux éditoriaux retrouvés
+
+Les recherches avancées disposent de leurs propres sources : [TRAME](https://github.com/goldaj/trame-chartist-research) et [Compagnon d'inférence](https://github.com/goldaj/inference-companion-lab). Les fiches de livres distinguent désormais manuscrit existant, ébauche et piste de conception. Les documents inédits, solutions d'énigme et secrets restent dans les ateliers privés ou sur le poste.
+
+Le stade de chaque projet est explicite. Les fichiers préparés localement dont la création GitHub est temporairement limitée sont signalés comme tels, sans lien vers un dépôt inexistant.

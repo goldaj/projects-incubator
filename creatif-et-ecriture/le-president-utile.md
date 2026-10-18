@@ -1,15 +1,7 @@
-# le-president-utile
+# Le Président utile — projet éditorial
 
-**Statut :** exploration / mémoire de projet.
+**Statut : manuscrit v1.1 existant, révision éditoriale à poursuivre.**
 
-## Intention
+Projet de réflexion institutionnelle. Les sources retrouvées comprennent un document Word de travail et deux versions PDF, dont la v1.1 datée du4septembre2026. Elles sont conservées sans réécriture dans l'atelier d'écriture privé ; la fiche publique évite de confondre cette existence avec une publication éditoriale ou une validation des propositions.
 
-Projet éditorial de réflexion institutionnelle.
-
-## Prochaine étape vérifiable
-
-Préserver le manuscrit dans un espace éditorial distinct du code.
-
-## Précautions
-
-Les textes ici résument le concept et ne constituent pas du code source. Ne pas publier de secrets, d'exports personnels ou de données de production dans ce dépôt.
+Prochaine étape : fixer la version de référence, retrouver ou reconstruire sa source éditable, confronter les propositions à des sources explicites et préparer un extrait public argumenté. Les versions antérieures restent conservées.

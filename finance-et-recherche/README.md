@@ -6,4 +6,6 @@
 - [deep-tech-watch](deep-tech-watch.md) : Veille sur quantique, fusion, spatial et transports innovants.
 - [chateau-business-plan](chateau-business-plan.md) : Simulations de business plans de patrimoine atypique.
 
-Chaque fiche a le statut **concept ou source à retrouver**, pas réalisation livrée.
+Chaque fiche précise son état : idée, recherche, source retrouvée, prototype ou projet en révision. Un document de conception ne constitue pas une réalisation logicielle livrée.
+
+- [TRAME : langage génératif chartiste](trame-modele-chartiste.md) — recherche indépendante avec dossier et audits.

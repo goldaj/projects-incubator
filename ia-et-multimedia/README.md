@@ -6,4 +6,6 @@
 - [server-monitor-dashboard](server-monitor-dashboard.md) : Interface de supervision CPU, RAM, disque, réseau et journaux.
 - [assistant-ar-japan-snapchat](assistant-ar-japan-snapchat.md) : Concept de filtre de réalité augmentée transformant l'ambiance architecturale en inspiration japonaise.
 
-Chaque fiche a le statut **concept ou source à retrouver**, pas réalisation livrée.
+Chaque fiche précise son état : idée, recherche, source retrouvée, prototype ou projet en révision. Un document de conception ne constitue pas une réalisation logicielle livrée.
+
+- [Compagnon d’inférence](inference-companion-lab.md) — programme de recherche et protocole.

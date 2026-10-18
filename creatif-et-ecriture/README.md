@@ -7,4 +7,7 @@
 - [le-president-utile](le-president-utile.md) : Projet éditorial de réflexion institutionnelle.
 - [france-2040](france-2040.md) : Document de prospective et de politique publique.
 
-Chaque fiche a le statut **concept ou source à retrouver**, pas réalisation livrée.
+Chaque fiche précise son état : idée, recherche, source retrouvée, prototype ou projet en révision. Un document de conception ne constitue pas une réalisation logicielle livrée.
+
+- [Résurrectés](resurrectes.md) — premier jet complet et atelier éditorial.
+- [Le Dernier Train](le-dernier-train.md) — courte fiction en cours.
