@@ -1,0 +1,11 @@
+.env
+.env.*
+*.pem
+*.key
+*.jks
+*.keystore
+*.p12
+secrets/
+credentials/
+.private/
+.DS_Store
