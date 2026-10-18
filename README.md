@@ -13,6 +13,8 @@ Ce dépôt regroupe les **idées, hypothèses, études et pistes de prototypes**
 - [Finance et recherche](finance-et-recherche/) : idées de recherche et d'automatisation.
 - [Créatif et écriture](creatif-et-ecriture/) : projets éditoriaux et expérimentaux.
 
+- [Expériences de développement](experiences-developpement/) : apprentissage, prototypes et archives techniques.
+
 ## Workflow de maturation
 
 `Idée → Problème utilisateur → Hypothèses → MVP → Prototype testé → Projet indépendant`.
