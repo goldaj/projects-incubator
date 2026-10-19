@@ -1,15 +1,9 @@
-# dydx-trading-bot
+# Bot dYdX historique — sentiment et interface Tkinter
 
-**Statut :** exploration / mémoire de projet.
+**Stade : prototype antérieur retrouvé, code nettoyé et configuration locale préservée.**
 
-## Intention
+Ce travail combine signaux techniques, sources de sentiment, persistance et tableau de bord Tkinter autour de dYdX. Il constitue une variante historique distincte du bot BTC-PERP Hyperliquid actuel.
 
-Prototype antérieur d'automatisation de trading dYdX v4.
+Les sources propres disposent du dépôt privé `dydx-sentiment-tkinter-bot`. Secrets et journaux restent locaux ; le travail de synchronisation ne lance aucun moteur de trading et ne valide pas la stratégie.
 
-## Prochaine étape vérifiable
-
-Retrouver le code historique et retirer comptes, adresses, configurations réelles et toute clé.
-
-## Précautions
-
-Les textes ici résument le concept et ne constituent pas du code source. Ne pas publier de secrets, d'exports personnels ou de données de production dans ce dépôt.
+Suites : revoir compatibilité API/dépendances, tester hors réseau la stratégie et les erreurs, vérifier permissions et état persistant, puis préparer des exemples publics indépendants des comptes réels.

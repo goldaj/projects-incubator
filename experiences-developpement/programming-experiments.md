@@ -2,7 +2,7 @@
 
 Stade : **exercices et petits prototypes autonomes**.
 
-Le dépôt `programming-experiments` (sources préparées localement, publication GitHub en attente) regroupe des essais Python, Java, C++ et web : nombres premiers, récit à embranchements, calculatrice, conversion de chiffres romains, exercices algorithmiques et interface de connexion à un fournisseur Ethereum du navigateur.
+Le dépôt [programming-experiments](https://github.com/goldaj/programming-experiments) regroupe des essais Python, Java, C++ et web : nombres premiers, récit à embranchements, calculatrice, conversion de chiffres romains, exercices algorithmiques et interface de connexion à un fournisseur Ethereum du navigateur.
 
 Les corrections de cours fournies par des tiers, exemples livrés avec les bibliothèques et modèles vides de l’IDE ne sont pas présentés comme du travail personnel. Les commentaires et attributions d’origine sont conservés.
 

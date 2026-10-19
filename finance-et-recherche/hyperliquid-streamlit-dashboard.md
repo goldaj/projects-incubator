@@ -1,15 +1,9 @@
-# hyperliquid-streamlit-dashboard
+# Bot Hyperliquid historique — sentiment et dashboard Streamlit
 
-**Statut :** exploration / mémoire de projet.
+**Stade : ancien prototype retrouvé, distinct du pilote BTC-PERP actuel.**
 
-## Intention
+Cette version explore agrégation de signaux techniques, macro et sentiment, intégration d'une analyse par API et visualisation Streamlit. Les sources propres portent le nom explicite `hyperliquid-sentiment-streamlit-bot` et restent privées.
 
-Version historique du dashboard Streamlit, distincte du bot Hyperliquid actuel.
+L'ancien historique Git contenant des secrets est sauvegardé localement et n'a pas été importé dans ce nouveau dépôt propre. Les configurations de connexion restent dans un coffre local. Les contrôles portent sur la configuration et la conservation des valeurs ; aucun appel de trading ni déploiement n'a été exécuté.
 
-## Prochaine étape vérifiable
-
-Vérifier si le code peut être extrait du dépôt de trading existant, sans dupliquer les secrets.
-
-## Précautions
-
-Les textes ici résument le concept et ne constituent pas du code source. Ne pas publier de secrets, d'exports personnels ou de données de production dans ce dépôt.
+Le projet ne remplace pas `hyperliquid-btc-pilot`, dont la production et les branches sont séparées. Suites : démonstration avec données factices, tests de logique hors réseau, revue des dépendances et des droits avant publication.

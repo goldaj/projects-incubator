@@ -9,3 +9,7 @@
 Chaque fiche précise son état : idée, recherche, source retrouvée, prototype ou projet en révision. Un document de conception ne constitue pas une réalisation logicielle livrée.
 
 - [TRAME : langage génératif chartiste](trame-modele-chartiste.md) — recherche indépendante avec dossier et audits.
+
+- [Modèles de prix crypto](crypto-price-ml-experiments.md) — recherches historiques et données.
+- [Laboratoire Bitcoin pédagogique](bitcoin-wallet-education-lab.md) — conversions et essais de portefeuilles.
+- [Prototype Binance](binance-strategy-prototype.md) — stratégie et backtests historiques.

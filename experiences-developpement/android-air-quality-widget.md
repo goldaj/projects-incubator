@@ -2,7 +2,7 @@
 
 Stade : **ancien prototype personnel**, distinct de l’application Android de liste de tâches.
 
-`android-widget-lab` (sources préparées localement, publication GitHub en attente) conserve les sources Java de récupération d’un indice WAQI et d’affichage dans une activité et un widget.
+[android-widget-lab](https://github.com/goldaj/android-widget-lab) conserve les sources Java de récupération d’un indice WAQI et d’affichage dans une activité et un widget.
 
 Le jeton de l’ancienne configuration a été retiré de la copie publiée avant son premier commit et conservé dans un coffre local externe au dépôt. Un champ `BuildConfig` lit désormais une configuration de build privée.
 

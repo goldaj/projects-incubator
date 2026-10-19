@@ -9,3 +9,5 @@
 Chaque fiche précise son état : idée, recherche, source retrouvée, prototype ou projet en révision. Un document de conception ne constitue pas une réalisation logicielle livrée.
 
 - [Compagnon d’inférence](inference-companion-lab.md) — programme de recherche et protocole.
+
+- [Bot de chat Twitch et commandes](twitch-pokemon-chat-bot.md) — prototype asynchrone et OAuth.
