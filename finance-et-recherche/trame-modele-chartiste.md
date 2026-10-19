@@ -8,9 +8,9 @@ Peut-on représenter causalement les observations de plusieurs marchés comme un
 
 ## Livrables existants
 
-- Quatorze documents dans l'édition2.4, dossier de102pages et synthèse de trois pages.
+- Quatorze documents dans l'édition 2.4, dossier de 102 pages et synthèse de trois pages.
 - Comparaisons de langages, protocole candidat, corpus, contrôles arithmétiques et journaux de version.
-- Audit de reconstruction sur304920présentations de cibles historiques, correspondant à15360cotations distinctes : il vérifie un codec, sans prouver une prédiction.
+- Audit de reconstruction sur 304 920 présentations de cibles historiques, correspondant à 15 360 cotations distinctes : il vérifie un codec, sans prouver une prédiction.
 - Sources modifiables et scripts ; les données brutes restent locales tant que leur redistribution n'est pas vérifiée.
 
 ## Source de vérité et prochaine étape
