@@ -16,3 +16,8 @@
 - Format : date ISO et fuseau si connus, rôle `Utilisateur` ou `Assistant`, mention `verbatim` seulement pour un texte exact. Sinon `résumé reconstruit, non verbatim`. Ne pas inventer d'heure ni de citation.
 - Si l'historique intégral n'est pas disponible, le signaler et demander un export réel plutôt que fabriquer une transcription. Préserver les exports existants sans les réécrire.
 - Exclure secrets, identifiants, données personnelles et contenus non destinés à la publication. Le niveau de visibilité de ce dépôt s'applique aussi aux documents ajoutés.
+
+
+## Convention commune aux dépôts
+
+Appliquer aussi [la convention de continuité ChatGPT/Codex](docs/GITHUB_CODEX_CONTEXT_POLICY.md) pour chaque nouveau dépôt ou modification : AGENTS.md, journal de contexte sourcé et mise à jour des échanges disponibles, sans inventer de transcription.
