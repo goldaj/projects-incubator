@@ -35,3 +35,14 @@ Ces travaux illustrent la démarche Product Owner : formulation de besoins, expl
 Les recherches avancées disposent de leurs propres sources : [TRAME](https://github.com/goldaj/trame-chartist-research) et [Compagnon d'inférence](https://github.com/goldaj/inference-companion-lab). Les fiches de livres distinguent désormais manuscrit existant, ébauche et piste de conception. Les documents inédits, solutions d'énigme et secrets restent dans les ateliers privés ou sur le poste.
 
 Le stade de chaque projet est explicite. Les fiches renvoient aux dépôts autonomes effectivement créés ; les ateliers privés restent accessibles uniquement aux personnes autorisées.
+
+## Revue scientifique du portefeuille (25 octobre 2026)
+
+[Lire l'audit de maturité de 36 concepts et la grille de sortie de
+l'incubateur](docs/PORTFOLIO_RECHERCHE_20261025.md). Cette revue classe
+les travaux selon la **matière existante** et les expériences susceptibles
+d'invalider leurs hypothèses, sans inventer de résultats. TRAME, Inference
+Companion Lab, Le garçon et la libellule et Crypto Price ML possèdent
+déjà chacun un dépôt dédié et ont reçu une proposition de recherche sur
+une PR brouillon indépendante. **Aucun nouveau dépôt n'est nécessaire
+pour ces quatre pistes.**
