@@ -1,6 +1,6 @@
 # Laboratoire de sociétés d'agents génératifs — Smallville 2.0
 
-**Stade : recherche / idée à prototyper (aucun code créé, aucun test effectué).**  
+**Statut : idée scientifique non démarrée ; cadrage et protocoles proposés uniquement (aucun code ni test exécuté dans ce dépôt).**  
 **Cadrage : 2026-10-26.**  
 **Axes : agents autonomes, cognition/mémoire, simulation sociale, expérimentation scientifique, inférence locale.**
 
@@ -110,6 +110,9 @@ Vue 2D / graphe social / chronologie (facultatifs)
 
 ## 6. Roadmap en baby steps
 
+> **Important :** ce tableau est un plan futur, pas le journal de travaux de l'incubateur. Avant le premier développement, benchmark ou expérimentation du laboratoire, créer le dépôt dédié et retirer cette fiche de l'index. Une revue bibliographique de cadrage peut rester ici tant que l'idée n'est pas lancée.
+
+
 | Étape | Sous-étapes | Critère observable | Statut |
 |---|---|---|---|
 | **P0 — préparation** | Lire Smallville, Concordia, AgentSociety 2 ; vérifier licences ; figer 2–3 scénarios et mesures ; choisir premier modèle. | Protocole et comparaison des moteurs consignés. | À faire |
@@ -118,7 +121,7 @@ Vue 2D / graphe social / chronologie (facultatifs)
 | **P3 — science** | Ablations B0–B5, rumeur, invitations, répétitions, graphiques et critique des biais. | Rapport négatif ou positif reproductible. | À faire |
 | **P4 — 25 agents** | Même protocole, variation modèles/quantification, mesure de la limite machine A. | Rapport « niveau Smallville » avec coûts et limites. | À faire |
 | **P5 — station pro** | Bench 14–32B, batching, 25→50→100+ agents, tests de rareté/cooperation. | Frontière coût/qualité/échelle et sensibilité. | À faire |
-| **P6 — publication** | CI, données synthétiques, méthodes et évaluations, interface 2D facultative. | Projet autonome public avec documentation, hypothèses non confirmées explicitement signalées. | À faire |
+| **P6 — publication** | CI, données synthétiques, méthodes et évaluations, interface 2D facultative. | Rapport de recherche et résultats du **dépôt dédié**, avec hypothèses non confirmées explicitement signalées. | À faire |
 
 **Premier sous-pas proposé :** réaliser une **revue critique de trois moteurs** (code Stanford de 2023, Concordia, moteur minimal ad hoc), écrire le scénario d'invitation et ses critères de succès, puis créer un **simulateur déterministe sans IA**. Ne pas coder une ville entière avant de savoir comment évaluer les agents.
 
@@ -147,4 +150,4 @@ Vue 2D / graphe social / chronologie (facultatifs)
 - **Statut strict :** cadrage scientifique uniquement, aucun code ni résultat. Ne pas créer de repo d'implémentation ni annoncer de benchmarks sans nouvelle décision.
 - **Priorité recherche + ingénierie :** protocoles falsifiables, reproductibilité, baselines, monde autoritaire, profils matériel A/B et coût mesuré ; interface graphique secondaire.
 - **Prochaine décision :** sélectionner l'architecture de P1 et le modèle de P2 après revue technique et de licences.
-- **Suite Git :** quand un POC existe, envisager un dépôt autonome avec `AGENTS.md`, journal de contexte et lien depuis cette fiche selon la convention du dépôt.
+- **Suite Git :** dès la décision de lancer une recherche appliquée, une expérimentation ou un POC, créer un dépôt autonome avec `AGENTS.md` et journal de contexte, y transférer la fiche puis **supprimer** la fiche et son lien dans l'incubateur. Ne pas attendre l'existence d'un POC pour le faire.
