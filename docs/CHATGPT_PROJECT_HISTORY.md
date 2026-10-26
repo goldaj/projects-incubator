@@ -50,3 +50,9 @@
 **Assistant (résumé reconstruit, non verbatim) :** audit croisé du catalogue et des dépôts accessibles. Retrait des fiches de développements, recherches engagées, prototypes, archives d'apprentissage et manuscrits en travail déjà hébergés dans Git. Nettoyage des index ; aucun dépôt de projet externe n'est supprimé. Les idées voisines mais indépendantes restent si elles n'ont pas démarré.
 
 **Règle durable :** le catalogue est uniquement un index de futurs projets, pas un annuaire des dépôts actifs. Une fiche est retirée dès qu'un travail de projet est engagé dans un dépôt, même si le livrable se limite à une fondation de recherche. L'historique Git garde la trace des anciennes fiches ; les décisions antérieures dans ce journal restent des documents historiques.
+
+## 2026-10-26 — Sortie de l'idée « Filtre AR Japon »
+- L'utilisateur a créé le dépôt public autonome [japan-architecture-ar](https://github.com/goldaj/japan-architecture-ar), puis a demandé un plan d'attaque, une structure documentée et le démarrage du code.
+- ChatGPT a créé `develop` pour la documentation de cadrage et une PR en brouillon [#1](https://github.com/goldaj/japan-architecture-ar/pull/1) pour un prototype local sur photographie. Ce prototype n'est ni une Lens Snapchat complète ni un système de suivi spatial.
+- La fiche `ia-et-multimedia/assistant-ar-japan-snapchat.md` et son lien de navigation sont supprimés sur la présente branche de nettoyage; leur ancien contenu reste accessible dans l'historique Git.
+- Source : conversation courante du 2026-10-26 (verbatim complet et horaire de chaque message non archivés ici), dépôt et PR effectivement vérifiés. La source de vérité du projet est désormais le dépôt autonome; l'incubateur ne conserve que les idées non démarrées.
