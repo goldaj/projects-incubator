@@ -87,3 +87,14 @@
 - La fiche `jeux/vtube-physics-lab.md` était déjà absente de main au moment de cette passe, avec son index mis à jour. La présente branche retire l'idée apparentée `ia-et-multimedia/live2d-remote-lab.md` et son index : le projet a démarré.
 - Son ancien contenu, y compris les besoins d'audio distant et de fonctionnement sur téléphone hors Wi-Fi, a été recopié dans https://github.com/goldaj/vtube-physics-lab/blob/feat/replay-clothing-spike/docs/LEGACY_LIVE2D_REMOTE_LAB.md ; l'historique Git en conserve également la version antérieure.
 - Les informations sur la conversation de septembre 2026 sont partielles et signalées comme telles; aucune transcription complète n'est inventée.
+
+
+## 2026-10-26 — Déclassement volontaire de thèmes non retenus comme projets (conversation actuelle)
+
+**Utilisateur (résumé fidèle, non verbatim ; heure exacte non attestée)** : les outils de suivi anime/manga/light novel avaient été proposés de bonne foi comme idées de logiciels, mais l'utilisateur choisit de les retirer de l'incubateur. Il demande aussi de supprimer la fiche de fiction « La sauvegarde impossible », tout en **conservant la catégorie « Créatif et écriture » vide et prête à accueillir de futurs projets**.
+
+**Assistant (résumé des opérations vérifiées dans Git)** : suppression des fiches `anime-et-media/anicompass.md`, `anime-et-media/media-backlog.md`, de l'index `anime-et-media/README.md` (ce qui retire le répertoire du HEAD Git), et de `creatif-et-ecriture/la-sauvegarde-impossible.md`. Mise à jour de `creatif-et-ecriture/README.md` avec l'état « aucune idée » afin que Git conserve la catégorie. L'index racine n'affiche plus Anime et médias. L'historique Git garde ses anciennes versions.
+
+**Règle produit ajoutée** : seules les idées **que le propriétaire veut effectivement garder comme futurs projets** appartiennent à l'incubateur. L'existence d'une conversation riche sur un thème ne suffit pas. La correction d'un classement antérieur ne signifie ni suppression des discussions d'origine ni jugement sur leur intérêt.
+
+**État résiduel** : les projets PO ont disparu de main ; un fichier `finance-et-recherche/deep-tech-watch.md` reste présent malgré la demande antérieure de suppression du répertoire complet, sa suppression ayant été bloquée. Il n'est plus dans l'index. Aucun projet dédié n'a été trouvé parmi les dépôts GitHub accessibles pour `toile-ar-planetaire-persistante.md` ; cette idée reste dans l'incubateur.
