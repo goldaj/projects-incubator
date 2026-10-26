@@ -1,25 +1,34 @@
 # Project Incubator | Idées à démarrer
 
-**Index public de 2 idées non démarrées (revue documentaire du 26 octobre 2026).** Chaque fiche décrit une **idée de futur projet réellement à développer**, sans réalisation déjà engagée dans un dépôt Git. Les simples thèmes discutés, lectures, veilles et travaux non destinés à un projet autonome n'appartiennent pas à cet index.
+**Index public de 14 projets envisagés (mise à jour du 26 octobre 2026).** Il référence des idées explicitement retenues pour un éventuel démarrage, sans dépôt dédié actif. **13 idées de logiciels / jeux et 1 livre pédagogique expressément demandé.** Un simple thème de conversation n'est pas un projet.
 
 ## Règle de présence
 
 - **Conserver** uniquement les idées qui attendent encore leur premier véritable démarrage.
 - **Sortir** une idée dès qu'un projet correspondant dispose d'un dépôt de travail actif, même si ce dépôt ne contient encore que des protocoles, une fondation technique ou un premier prototype. Les archives pédagogiques et prototypes historiques n'ont pas non plus leur place ici.
 - **Vérifier le périmètre, pas seulement le nom** : si un dépôt existant répond déjà au besoin, l'idée ne revient pas ici sous un autre nom. Un nouveau projet voisin n'est admissible que si son autonomie et son besoin distinct sont explicitement établis.
-- **Ne conserver que les projets voulus comme futurs développements** : une conversation, une veille thématique, un livre commencé ou une suggestion de logiciel non retenue ne suffit pas à créer une fiche.
+- **Ne conserver que les projets voulus comme futurs développements** : une conversation, une veille thématique, un livre commencé ou une suggestion de logiciel non retenue ne suffit pas à créer une fiche. **Exception ciblée** : une idée de livre explicitement demandée peut être incubée dans `creatif-et-ecriture/` jusqu'au début réel de l'écriture.
 - Aucun projet commencé n'est répertorié ici « pour mémoire » : sa documentation doit vivre avec son code ou ses sources.
 
 ## Idées encore à lancer
 
-- [IA et multimédia](ia-et-multimedia/) : simulation sociale, interfaces et expériences IA encore conceptuelles.
-- [Créatif et écriture](creatif-et-ecriture/) : catégorie volontairement vide, réservée à de futurs projets de création ou d'outillage.
+| Catégorie | Idées | Périmètre |
+| --- | ---: | --- |
+| [IA et multimédia](ia-et-multimedia/) | 3 | Agents simulés, peinture AR persistante, formations générées et vérifiées |
+| [Infrastructure et médias](infrastructure-et-medias/) | 1 | Laboratoire IPTV personnel et légal |
+| [Communautés et échanges](communautes-et-echanges/) | 1 | Entraide locale avec crédits-temps partagés |
+| [Éducation et pédagogie](education-et-pedagogie/) | 1 | Initiation aux cryptomonnaies en jouant |
+| [Finance et crypto](finance-et-crypto/) | 2 | Scanner analytique de marchés insolites ; achat BTC simplifié avec prestataire autorisé |
+| [Jeux](jeux/) | 5 | Romance à routes, échecs cosmétiques, idle inversé, galerie de swipe, speedrun à glitchs |
+| [Créatif et écriture](creatif-et-ecriture/) | 1 | Livre pédagogique sur la compréhension de l'investissement (exception éditoriale explicite) |
+
+**Ne pas confondre** `finance-et-crypto/` (nouveaux outils logiciels expressément demandés) et l'ancien `finance-et-recherche/` (sujets de conversation volontairement supprimés). Le dashboard Twitch est **déjà lancé dans** [son dépôt autonome](https://github.com/goldaj/twitch-streamer-dashboard) ; ses nouveaux modules doivent être documentés là-bas, pas recréés ici.
 
 ## Cycle de vie
 
 `Idée dans l'incubateur → cadrage / décision de démarrer → dépôt projet autonome → suppression de la fiche de l'incubateur`.
 
-Une fiche peut contenir une **réflexion poussée ou un protocole théorique** avant démarrage, mais **ni code de projet actif, ni journal de travaux en cours**. La création du dépôt et le lancement d'une recherche dédiée déclenchent la sortie de l'incubateur.
+Une fiche peut contenir une **réflexion poussée ou un protocole théorique** avant démarrage, mais **ni code de projet actif, ni journal de travaux en cours**. Les questions ouvertes restent des **hypothèses**, non des fonctionnalités validées. La création du dépôt et le lancement d'une recherche dédiée déclenchent la sortie de l'incubateur.
 
 ## Sécurité et confidentialité
 
