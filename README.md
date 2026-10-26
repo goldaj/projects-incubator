@@ -14,12 +14,11 @@
 
 | Catégorie | Idées | Périmètre |
 | --- | ---: | --- |
-| [IA et multimédia](ia-et-multimedia/) | 3 | Agents simulés, peinture AR persistante, formations générées et vérifiées |
+| [IA et multimédia](ia-et-multimedia/) | 4 | Agents simulés, peinture AR, formations IA et images synthétiques interactives |
 | [Infrastructure et médias](infrastructure-et-medias/) | 1 | Laboratoire IPTV personnel et légal |
 | [Communautés et échanges](communautes-et-echanges/) | 1 | Entraide locale avec crédits-temps partagés |
-| [Éducation et pédagogie](education-et-pedagogie/) | 1 | Initiation aux cryptomonnaies en jouant |
-| [Finance et crypto](finance-et-crypto/) | 2 | Scanner analytique de marchés insolites ; achat BTC simplifié avec prestataire autorisé |
-| [Jeux](jeux/) | 5 | Romance à routes, échecs cosmétiques, idle inversé, galerie de swipe, speedrun à glitchs |
+| [Finance et crypto](finance-et-crypto/) | 3 | Scanner de marchés insolites, achat BTC simplifié et apprentissage ludique de la crypto |
+| [Jeux](jeux/) | 4 | Romance à routes, échecs cosmétiques, idle inversé et speedrun à glitchs |
 | [Créatif et écriture](creatif-et-ecriture/) | 1 | Livre pédagogique sur la compréhension de l'investissement (exception éditoriale explicite) |
 
 **Ne pas confondre** `finance-et-crypto/` (nouveaux outils logiciels expressément demandés) et l'ancien `finance-et-recherche/` (sujets de conversation volontairement supprimés). Le dashboard Twitch est **déjà lancé dans** [son dépôt autonome](https://github.com/goldaj/twitch-streamer-dashboard) ; ses nouveaux modules doivent être documentés là-bas, pas recréés ici.
