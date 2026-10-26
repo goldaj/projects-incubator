@@ -1,6 +1,6 @@
 # Project Incubator | Idées à démarrer
 
-**Index public de 8 idées encore à démarrer (audit du 26 octobre 2026).** Chaque fiche décrit une **idée de futur projet réellement à développer**, sans réalisation déjà engagée dans un dépôt Git. Les simples thèmes discutés, lectures, veilles et travaux non destinés à un projet autonome n'appartiennent pas à cet index.
+**Index public de 5 idées encore à démarrer (audit du 26 octobre 2026).** Chaque fiche décrit une **idée de futur projet réellement à développer**, sans réalisation déjà engagée dans un dépôt Git. Les simples thèmes discutés, lectures, veilles et travaux non destinés à un projet autonome n'appartiennent pas à cet index.
 
 ## Règle de présence
 
@@ -13,8 +13,7 @@
 
 - [IA et multimédia](ia-et-multimedia/) : simulation sociale, interfaces et expériences IA encore conceptuelles.
 - [Jeux](jeux/) : prototypes envisagés, non engagés.
-- [Anime et médias](anime-et-media/) : pistes de découverte et de suivi.
-- [Créatif et écriture](creatif-et-ecriture/) : concepts éditoriaux non commencés.
+- [Créatif et écriture](creatif-et-ecriture/) : catégorie volontairement vide, réservée à de futurs projets de création ou d'outillage.
 
 ## Cycle de vie
 
