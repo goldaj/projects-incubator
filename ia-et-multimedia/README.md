@@ -6,4 +6,6 @@
 - [Tableau de bord Twitch](twitch-streamer-dashboard.md) : conception d'une interface de stream et d'analytics.
 - [Filtre AR Japon](assistant-ar-japan-snapchat.md) : idée de réalité augmentée inspirée des architectures japonaises.
 
+- [Toile AR planétaire persistante](toile-ar-planetaire-persistante.md) : la planète comme tableau AR public en 3D ; état de l'art, précision inter-appareils, altitude, stockage localisé, protocole de recherche avant code.
+
 Les projets déjà engagés ailleurs, comme le VTuber IA et les prototypes de bots, ne sont **pas** suivis dans ce répertoire d'idées.
