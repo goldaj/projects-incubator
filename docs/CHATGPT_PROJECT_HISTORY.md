@@ -74,3 +74,9 @@
 - A ajouté la fiche à l'index `ia-et-multimedia/README.md`. **Aucun code, benchmark ni test AR réel n'a été développé ou exécuté ; aucun nouveau dépôt projet n'a été créé.**
 
 **Règle de reprise :** commencer par le comparatif étayé (P0) et la métrologie (P1), contester les choix de fournisseurs et les hypothèses de précision, puis transférer le dossier dans un dépôt dédié et supprimer l'entrée de l'incubateur lorsque le projet démarre effectivement. Les échanges antérieurs du compte non contenus dans ce journal ne sont pas implicitement retranscrits.
+
+## 2026-10-26 — Passage de « dashboard Twitch » à produit autonome
+- Le propriétaire a créé https://github.com/goldaj/twitch-streamer-dashboard et précisé le premier produit réellement prioritaire : voyant discret vert/orange/rouge en temps réel indiquant état Twitch, image reçue et audio côté spectateur. Normalisation automatique du volume réglable par streamer mise au backlog pour plus tard.
+- Le projet autonome contient des recherches, consignes Codex et un prototype simulé sur [PR #1](https://github.com/goldaj/twitch-streamer-dashboard/pull/1). **Ce code simulé ne détecte pas encore des pannes Twitch réelles.**
+- La fiche de l'incubateur et sa ligne de navigation sont retirées en PR sans fusion; l'ancien texte reste dans l'historique Git.
+- Source : conversation visible du 2026-10-26, heure précise des messages non attestée. Pas de transcription complète des échanges plus anciens.
