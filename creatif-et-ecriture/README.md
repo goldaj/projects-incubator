@@ -1,7 +1,5 @@
-# Créatif et écriture
+# Créatif et écriture — idées à démarrer
 
-**Aucune idée de projet à démarrer pour le moment.**
+- [Comprendre l'investissement — un livre pour ma famille](investissement-pour-ma-famille.md) : expliquer les mécanismes financiers et les conséquences possibles de situations courantes, sans conseil d'investissement.
 
-Cette catégorie reste volontairement présente dans l'incubateur pour accueillir d'éventuels futurs **projets de création ou outils d'écriture**, après cadrage explicite.
-
-Les discussions littéraires isolées, brouillons et œuvres déjà engagées dans leurs propres dépôts ne sont pas indexés ici.
+**Exception explicite :** cette fiche est un **projet éditorial de livre**, non un logiciel, inscrit à la demande expresse du propriétaire. Ce dossier public contient **uniquement le cadrage de l'idée**, jamais le manuscrit, des brouillons inédits ou des données financières personnelles. Dès le début de la rédaction, créer un espace de travail dédié et retirer cette fiche.
