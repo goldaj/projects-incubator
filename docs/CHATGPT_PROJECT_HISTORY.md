@@ -6,7 +6,7 @@
 
 Ce paragraphe fait foi **pour le contenu actif de l'incubateur à cette date** ; les sections historiques plus bas décrivent les décisions et problèmes rencontrés à leur époque, et peuvent avoir été résolus depuis.
 
-- **Quatorze idées retenues**, réparties entre `ia-et-multimedia/` (3), `infrastructure-et-medias/` (1), `communautes-et-echanges/` (1), `education-et-pedagogie/` (1), `finance-et-crypto/` (2), `jeux/` (5) et `creatif-et-ecriture/` (1), sur demande expresse du propriétaire.
+- **Quatorze idées retenues**, réparties entre `ia-et-multimedia/` (4), `infrastructure-et-medias/` (1), `communautes-et-echanges/` (1), `finance-et-crypto/` (3), `jeux/` (4) et `creatif-et-ecriture/` (1). La catégorie `education-et-pedagogie/` a été retirée après transfert de sa seule fiche.
 - **Catégorie `creatif-et-ecriture/` réutilisée** pour l'idée de livre pédagogique sur l'investissement destinée à la famille, **exception éditoriale explicitement voulue** et non manuscrit déjà engagé.
 - Les anciennes catégories `anime-et-media/`, `finance-et-recherche/` et `product-owner/` ont été retirées. **`jeux/` a été recréé uniquement pour cinq nouvelles idées de jeux explicitement demandées**, non pour les anciennes fiches supprimées. De même, le nouveau `finance-et-crypto/` ne rétablit PAS le dossier de discussions `finance-et-recherche/`. La fiche `server-monitor-dashboard.md` reste supprimée. **Ne pas recréer les anciennes fiches depuis les paragraphes historiques.**
 - Les projets existants ont été comparés au périmètre des nouvelles idées : `chess-roguelite` ≠ échecs classiques à skins, `idle-clicker-tkinter` ≠ idle qui récompense l'absence, `bitcoin-wallet-education-lab` ≠ achat de BTC ou enseignement gamifié. **Ces distinctions ne constituent pas une garantie que les nouveaux projets ont été démarrés.** Revérifier les dépôts à chaque mise à jour.
@@ -135,3 +135,14 @@ Ce paragraphe fait foi **pour le contenu actif de l'incubateur à cette date** ;
 - Le propriétaire a **aussi** demandé huit besoins d'outillage Twitch (pastille santé plus sept modules). **Ne pas les inscrire ici** : projet déjà actif https://github.com/goldaj/twitch-streamer-dashboard. La vision complémentaire a été transférée à `docs/STREAMER_SUITE_BACKLOG.md` sur sa branche `develop`, et son contexte dans son `docs/CHATGPT_PROJECT_HISTORY.md`. Le voyant santé reste le premier MVP.
 
 **À ne pas confondre :** un document détaillé et son cadrage ne constituent pas une recherche exécutée. Toutes ces fiches sont des hypothèses en attente de décision de démarrage et de transfert dans un dépôt autonome.
+
+
+## 2026-10-26 — Reclassement ciblé de deux idées
+
+**Utilisateur (verbatim, chemins conservés ; heure exacte non attestée)** :
+> https://github.com/goldaj/projects-incubator/blob/main/jeux/this-ass-does-not-exist.md doit être déplacé dans https://github.com/goldaj/projects-incubator/tree/main/ia-et-multimedia
+> https://github.com/goldaj/projects-incubator/blob/main/education-et-pedagogie/apprendre-crypto-en-jouant.md dans https://github.com/goldaj/projects-incubator/tree/main/finance-et-crypto
+
+**Assistant (résumé non verbatim, opérations effectuées)** : fichiers déplacés avec **contenu strictement inchangé** de `jeux/this-ass-does-not-exist.md` vers `ia-et-multimedia/this-ass-does-not-exist.md`, et de `education-et-pedagogie/apprendre-crypto-en-jouant.md` vers `finance-et-crypto/apprendre-crypto-en-jouant.md`. Les anciens chemins ont été supprimés ; les README des catégories et l'index racine ont été rectifiés. Le dossier `education-et-pedagogie/` a disparu du HEAD Git, car devenu vide. **Total inchangé : 14 idées.**
+
+Cette décision de classement **prime sur la liste historique des chemins d'origine** donnée plus haut, qui reste une trace des premières créations et ne doit pas être utilisée pour recréer les fichiers aux anciennes places.
