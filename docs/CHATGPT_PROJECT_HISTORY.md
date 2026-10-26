@@ -2,6 +2,17 @@
 
 **Initialisé le 2026-10-24. Couverture : partielle, sauf les sources originales référencées explicitement.** Codex doit lire ce fichier après `AGENTS.md` et avant toute reprise du projet. Une mémoire reconstruite n'est pas la totalité du chat.
 
+## État courant de référence — revue du 26 octobre 2026
+
+Ce paragraphe fait foi **pour le contenu actif de l'incubateur à cette date** ; les sections historiques plus bas décrivent les décisions et problèmes rencontrés à leur époque, et peuvent avoir été résolus depuis.
+
+- **Deux idées recensées** dans `ia-et-multimedia/` : `laboratoire-societes-agents-generatifs.md` et `toile-ar-planetaire-persistante.md`.
+- **Catégorie `creatif-et-ecriture/` volontairement vide**, conservée grâce à son `README.md`.
+- Les catégories `anime-et-media/`, `finance-et-recherche/`, `product-owner/` et `jeux/` ont été retirées de l'index actif (aucune fiche courante retenue dans ces catégories). La fiche `server-monitor-dashboard.md` a aussi été supprimée. **Ne pas recréer ces fiches depuis les anciens paragraphes du journal.**
+- Lors du contrôle des dépôts accessibles, **aucun projet autonome correspondant précisément aux deux idées actives n'a été identifié**. Revérifier avant tout ajout ou démarrage.
+- Règle de sortie : si l'utilisateur lance même une **recherche expérimentale versionnée**, créer le dépôt autonome d'abord, y transférer les documents puis supprimer l'idée de l'index. Les protocoles dans l'incubateur sont des plans, pas des travaux exécutés.
+- Un thème de conversation, une œuvre déjà en travail ou une idée de logiciel que le propriétaire choisit de ne pas poursuivre ne constitue pas un projet à inscrire automatiquement.
+
 ## Projet confirmé par le dépôt
 - Dépôt : `goldaj/projects-incubator`.
 - Objet actuel : index public uniquement des idées non démarrées.
@@ -98,3 +109,14 @@
 **Règle produit ajoutée** : seules les idées **que le propriétaire veut effectivement garder comme futurs projets** appartiennent à l'incubateur. L'existence d'une conversation riche sur un thème ne suffit pas. La correction d'un classement antérieur ne signifie ni suppression des discussions d'origine ni jugement sur leur intérêt.
 
 **État résiduel** : les projets PO ont disparu de main ; un fichier `finance-et-recherche/deep-tech-watch.md` reste présent malgré la demande antérieure de suppression du répertoire complet, sa suppression ayant été bloquée. Il n'est plus dans l'index. Aucun projet dédié n'a été trouvé parmi les dépôts GitHub accessibles pour `toile-ar-planetaire-persistante.md` ; cette idée reste dans l'incubateur.
+
+
+## 2026-10-26 — Audit de cohérence demandé après nettoyage (résumé non verbatim)
+
+**Utilisateur (verbatim ; heure exacte non attestée) :** « est-ce que toute la doc de l'incubateur est à jour ? Fait une passe rapide sur tous les fichiers de l'incubator et modifie/corrige ce qu'il faut »
+
+**Assistant (résumé reconstruit, non verbatim) :** lecture du README racine, des index de catégories, de `AGENTS.md`, des deux documents de gouvernance/historique et des fiches restantes. Relecture des commits récents révélant la suppression ultérieure de `jeux/decklab.md` et `ia-et-multimedia/server-monitor-dashboard.md`, que les anciens index citaient encore. Suppression de l'index Jeux devenu vide, correction du README à **deux idées** et de l'index IA, renforcement des critères de sélection dans `AGENTS.md`, clarification du **moment de sortie de l'incubateur** dans les deux protocoles scientifiques. Cette opération est **documentaire seulement**, sans test scientifique ni création de projet.
+
+**Erratum de l'état résiduel historique ci-dessus :** la note indiquant encore la présence de `finance-et-recherche/deep-tech-watch.md` reflétait un état **transitoire** ; ce fichier a ensuite été supprimé. Ne pas l'interpréter comme présent à la date de ce nouvel audit. Les catégories Finance, PO, Anime et Jeux sont maintenant absentes de la navigation ; la catégorie Créatif demeure volontairement vide.
+
+**Vérification :** les fichiers et liens relatifs **connus des index** ont été contrôlés. Les références externes scientifiques sont des sources à revalider au démarrage d'un projet, pas une garantie de disponibilité ou de version pérenne. L'index Git doit rester la source de vérité.
