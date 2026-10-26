@@ -4,6 +4,5 @@
 - [Laboratoire Live2D distant](live2d-remote-lab.md) : concept de visualiseur web et rejeu de séquences indépendant.
 - [Tableau de bord de supervision serveur](server-monitor-dashboard.md) : interface conceptuelle pour métriques et journaux.
 - [Tableau de bord Twitch](twitch-streamer-dashboard.md) : conception d'une interface de stream et d'analytics.
-- [Filtre AR Japon](assistant-ar-japan-snapchat.md) : idée de réalité augmentée inspirée des architectures japonaises.
 
 Les projets déjà engagés ailleurs, comme le VTuber IA et les prototypes de bots, ne sont **pas** suivis dans ce répertoire d'idées.
