@@ -1,6 +1,6 @@
 # Project Incubator | Idées à démarrer
 
-**Index public de 5 idées encore à démarrer (audit du 26 octobre 2026).** Chaque fiche décrit une **idée de futur projet réellement à développer**, sans réalisation déjà engagée dans un dépôt Git. Les simples thèmes discutés, lectures, veilles et travaux non destinés à un projet autonome n'appartiennent pas à cet index.
+**Index public de 4 idées encore à démarrer (audit du 26 octobre 2026).** Chaque fiche décrit une **idée de futur projet réellement à développer**, sans réalisation déjà engagée dans un dépôt Git. Les simples thèmes discutés, lectures, veilles et travaux non destinés à un projet autonome n'appartiennent pas à cet index.
 
 ## Règle de présence
 
