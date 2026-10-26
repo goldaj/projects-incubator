@@ -80,3 +80,10 @@
 - Le projet autonome contient des recherches, consignes Codex et un prototype simulé sur [PR #1](https://github.com/goldaj/twitch-streamer-dashboard/pull/1). **Ce code simulé ne détecte pas encore des pannes Twitch réelles.**
 - La fiche de l'incubateur et sa ligne de navigation sont retirées en PR sans fusion; l'ancien texte reste dans l'historique Git.
 - Source : conversation visible du 2026-10-26, heure précise des messages non attestée. Pas de transcription complète des échanges plus anciens.
+
+## 2026-10-26 — Consolidation des idées VTuber Live2D
+- Le nouveau dépôt public https://github.com/goldaj/vtube-physics-lab réunit les idées de physique Live2D, d'AI Replay et de visualisation mobile autonome. PR technique : https://github.com/goldaj/vtube-physics-lab/pull/1.
+- Le propriétaire ajoute explicitement le besoin de vêtements 2D interchangeables avec adaptation automatique au mouvement et à la physique, sans rig manuel.
+- La fiche `jeux/vtube-physics-lab.md` était déjà absente de main au moment de cette passe, avec son index mis à jour. La présente branche retire l'idée apparentée `ia-et-multimedia/live2d-remote-lab.md` et son index : le projet a démarré.
+- Son ancien contenu, y compris les besoins d'audio distant et de fonctionnement sur téléphone hors Wi-Fi, a été recopié dans https://github.com/goldaj/vtube-physics-lab/blob/feat/replay-clothing-spike/docs/LEGACY_LIVE2D_REMOTE_LAB.md ; l'historique Git en conserve également la version antérieure.
+- Les informations sur la conversation de septembre 2026 sont partielles et signalées comme telles; aucune transcription complète n'est inventée.
