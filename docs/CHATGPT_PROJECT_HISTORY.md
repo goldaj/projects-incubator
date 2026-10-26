@@ -50,3 +50,27 @@
 **Assistant (résumé reconstruit, non verbatim) :** audit croisé du catalogue et des dépôts accessibles. Retrait des fiches de développements, recherches engagées, prototypes, archives d'apprentissage et manuscrits en travail déjà hébergés dans Git. Nettoyage des index ; aucun dépôt de projet externe n'est supprimé. Les idées voisines mais indépendantes restent si elles n'ont pas démarré.
 
 **Règle durable :** le catalogue est uniquement un index de futurs projets, pas un annuaire des dépôts actifs. Une fiche est retirée dès qu'un travail de projet est engagé dans un dépôt, même si le livrable se limite à une fondation de recherche. L'historique Git garde la trace des anciennes fiches ; les décisions antérieures dans ce journal restent des documents historiques.
+
+
+## 2026-10-26 — Toile AR planétaire persistante (idée non démarrée)
+
+**Utilisateur (verbatim, message intégral accessible dans la conversation courante ; heure exacte non attestée) :**
+> on va créer une nouvelle entrée dans l'incubator sur git.
+> Il s'agit d'un projet de réalité mixte.
+>
+> Le cas d'usage :
+> On mets des lunettes AR/réalité mixte ou une simple appli sur le téléphone.
+> On voit le monde réel. Par contre on peut "peindre" dessus, rajouter des lignes et écrire simplement.
+> Par contre, les lignes peintes sont localisées au plus précis possible. Geolocalisée, avec la hauteur prise en compte. Et son persistentes pour TOUT LE MONDE qui utilise l'application.
+> C'est literralement la planète entière qui devient le tableau. On démarrera par une toute petite zone parce que je pense que la grosse difficulté ici sera la quantité de mémoire à enregistrer et charger en tant réel quand la personne arrive à proximité d'une nouvelle ligne peinte.
+>
+> Il faudra étudier si des projets similaires existent, la faisabilité, les conditions et le matériel nécessaire, mais aussi l'architecture, l'infra, l'algorithme et tout le nécessaire en tant que chercheur avant d'envoyer l'ingénieur réfléchir au code directement.
+
+**Assistant (résumé reconstruit, non verbatim) :**
+- A identifié et parcouru les consignes du dépôt public : l'incubateur n'accueille que les idées sans recherche ni développement engagé dans un dépôt autonome.
+- A conduit un premier repérage **documentaire uniquement** de projets comparables (WallaMe, Kanvio, Spray, Cospray), moteurs de localisation (ARCore Geospatial, Niantic Spatial VPS, Apple ARKit GeoTracking), standards (OGC GeoPose / 3D Tiles) et indexation spatiale (H3 / PostGIS).
+- A caractérisé séparément trois difficultés : stockage mondial des traits, recalage visuel spatial précis entre appareils/sessions, hauteur et surfaces 3D ; a conclu qu'aucune précision centimétrique mondiale ne peut être promise d'après ce repérage.
+- A créé [la fiche de cadrage scientifique Toile AR planétaire persistante](../ia-et-multimedia/toile-ar-planetaire-persistante.md) avec critères de falsification, hypothèses, modèle conceptuel, architecture candidate, stratégie de cache et protocole P0–P5, en vue d'une éventuelle recherche puis intervention de Codex plus tard.
+- A ajouté la fiche à l'index `ia-et-multimedia/README.md`. **Aucun code, benchmark ni test AR réel n'a été développé ou exécuté ; aucun nouveau dépôt projet n'a été créé.**
+
+**Règle de reprise :** commencer par le comparatif étayé (P0) et la métrologie (P1), contester les choix de fournisseurs et les hypothèses de précision, puis transférer le dossier dans un dépôt dédié et supprimer l'entrée de l'incubateur lorsque le projet démarre effectivement. Les échanges antérieurs du compte non contenus dans ce journal ne sont pas implicitement retranscrits.
