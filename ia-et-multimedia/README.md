@@ -1,14 +1,9 @@
-# ia-et-multimedia
+# IA et multimédia — idées à démarrer
 
-- [live2d-remote-lab](live2d-remote-lab.md) : Visualiseur web de modèle Live2D, simulateur VTube Studio et rejeu de séquences.
-- [jade-cloud-247](jade-cloud-247.md) : Architecture cible d'un système VTuber IA accessible en continu.
-- [twitch-streamer-dashboard](twitch-streamer-dashboard.md) : Interface de supervision de stream, chat et analytics Twitch.
-- [server-monitor-dashboard](server-monitor-dashboard.md) : Interface de supervision CPU, RAM, disque, réseau et journaux.
-- [assistant-ar-japan-snapchat](assistant-ar-japan-snapchat.md) : Concept de filtre de réalité augmentée transformant l'ambiance architecturale en inspiration japonaise.
+- [Laboratoire de sociétés d'agents génératifs](laboratoire-societes-agents-generatifs.md) : reproduction critique de Smallville, hypothèses et protocole comparant PC modeste et station professionnelle ; **cadrage théorique uniquement**.
+- [Laboratoire Live2D distant](live2d-remote-lab.md) : concept de visualiseur web et rejeu de séquences indépendant.
+- [Tableau de bord de supervision serveur](server-monitor-dashboard.md) : interface conceptuelle pour métriques et journaux.
+- [Tableau de bord Twitch](twitch-streamer-dashboard.md) : conception d'une interface de stream et d'analytics.
+- [Filtre AR Japon](assistant-ar-japan-snapchat.md) : idée de réalité augmentée inspirée des architectures japonaises.
 
-Chaque fiche précise son état : idée, recherche, source retrouvée, prototype ou projet en révision. Un document de conception ne constitue pas une réalisation logicielle livrée.
-
-- [Compagnon d’inférence](inference-companion-lab.md) — programme de recherche et protocole.
-
-- [Bot de chat Twitch et commandes](twitch-pokemon-chat-bot.md) — prototype asynchrone et OAuth.
-- [Laboratoire de sociétés d'agents génératifs](laboratoire-societes-agents-generatifs.md) — reproduction critique de Smallville, protocole scientifique et deux paliers matériels (recherche, non implémenté).
+Les projets déjà engagés ailleurs, comme le VTuber IA et les prototypes de bots, ne sont **pas** suivis dans ce répertoire d'idées.

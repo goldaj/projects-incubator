@@ -2,8 +2,8 @@
 
 ## Avant de travailler
 1. Lire `README.md` et les documents techniques pertinents, puis **`docs/CHATGPT_PROJECT_HISTORY.md`** pour les demandes, décisions et lacunes du contexte.
-2. Backlog public de concepts classés par domaine, distinguant idées, hypothèses, MVP et projets implémentés disposant de dépôts dédiés.
-3. Ne jamais qualifier une idée de produit livré. Lier aux dépôts autonomes au lieu de dupliquer le code. Ne pas publier manuscrits inédits, données de trading, clés, secrets, historiques personnels ou configurations internes.
+2. Index public strictement réservé aux idées NON DÉMARRÉES. Les projets commencés, y compris avec un simple protocole ou prototype versionné, sont retirés de l'incubateur.
+3. Avant tout ajout, vérifier qu'aucun dépôt Git dédié (même sous un autre nom) n'exécute déjà l'idée. Après démarrage, supprimer la fiche et le lien de navigation ; préserver les concepts voisins seulement s'ils sont indépendants. Ne pas publier de secrets, manuscrits, données privées ou configuration personnelle.
 
 ## Exécution et vérification
 - Valider les liens et le classement des dossiers à chaque ajout ; aucune commande de build générale.

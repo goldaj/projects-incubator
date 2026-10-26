@@ -4,7 +4,7 @@
 
 ## Projet confirmé par le dépôt
 - Dépôt : `goldaj/projects-incubator`.
-- Objet : Backlog public de concepts classés par domaine, distinguant idées, hypothèses, MVP et projets implémentés disposant de dépôts dédiés.
+- Objet actuel : index public uniquement des idées non démarrées.
 - Contraintes : Ne jamais qualifier une idée de produit livré. Lier aux dépôts autonomes au lieu de dupliquer le code. Ne pas publier manuscrits inédits, données de trading, clés, secrets, historiques personnels ou configurations internes.
 - Validation : Valider les liens et le classement des dossiers à chaque ajout ; aucune commande de build générale.
 
@@ -37,3 +37,16 @@
 **Assistant (résumé reconstruit, non verbatim) :** cadrage d'un programme de recherche multi-agents. Nouvelle fiche [laboratoire-societes-agents-generatifs](../ia-et-multimedia/laboratoire-societes-agents-generatifs.md) : hypothèses falsifiables, ablations mémoire/réflexion, validité sociale, rumeurs, contraintes, modèles ouverts locaux et station professionnelle, architecture hybride et étapes P0–P6. Aucune simulation ni aucun benchmark matériel exécuté.
 
 **Fidélité :** les textes Utilisateur ci-dessus viennent de la conversation accessible ; les résumés Assistant ne prétendent pas être une transcription intégrale. Heure exacte non attestée. L'historique des anciens chats reste partiel.
+
+
+## 2026-10-26 — L'incubateur ne conserve que les idées non démarrées
+
+**Utilisateur (verbatim, heure précise non attestée) :**
+> Au fait, est-ce qu'il y a des choses dans l'incubator qui existent déjà sous forme d'un repo git dédié au projet ?
+> L'incubator ne doit contenir que les projets qui n'ont pas démarré, une sorte d'index des idées.
+>
+> Tu peux me supprimer de l'incubator les idées qui sont déjà en cours sur des repo git dédiés dans mon github ? Ca me permettra de voir ce qu'il reste réellement à démarrer.
+
+**Assistant (résumé reconstruit, non verbatim) :** audit croisé du catalogue et des dépôts accessibles. Retrait des fiches de développements, recherches engagées, prototypes, archives d'apprentissage et manuscrits en travail déjà hébergés dans Git. Nettoyage des index ; aucun dépôt de projet externe n'est supprimé. Les idées voisines mais indépendantes restent si elles n'ont pas démarré.
+
+**Règle durable :** le catalogue est uniquement un index de futurs projets, pas un annuaire des dépôts actifs. Une fiche est retirée dès qu'un travail de projet est engagé dans un dépôt, même si le livrable se limite à une fondation de recherche. L'historique Git garde la trace des anciennes fiches ; les décisions antérieures dans ce journal restent des documents historiques.
