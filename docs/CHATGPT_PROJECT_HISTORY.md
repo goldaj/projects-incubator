@@ -146,3 +146,23 @@ Ce paragraphe fait foi **pour le contenu actif de l'incubateur à cette date** ;
 **Assistant (résumé non verbatim, opérations effectuées)** : fichiers déplacés avec **contenu strictement inchangé** de `jeux/this-ass-does-not-exist.md` vers `ia-et-multimedia/this-ass-does-not-exist.md`, et de `education-et-pedagogie/apprendre-crypto-en-jouant.md` vers `finance-et-crypto/apprendre-crypto-en-jouant.md`. Les anciens chemins ont été supprimés ; les README des catégories et l'index racine ont été rectifiés. Le dossier `education-et-pedagogie/` a disparu du HEAD Git, car devenu vide. **Total inchangé : 14 idées.**
 
 Cette décision de classement **prime sur la liste historique des chemins d'origine** donnée plus haut, qui reste une trace des premières créations et ne doit pas être utilisée pour recréer les fichiers aux anciennes places.
+
+
+## 2026-10-26 — Glitch Runner : cadrage de vitesse, inertie et anomalies (idée non démarrée)
+
+**Utilisateur (verbatim ; date locale Europe/Paris, heure exacte non attestée) :**
+> On va étoffer un peu [https://github.com/goldaj/projects-incubator/blob/main/jeux/speedrun-glitch-platformer.md](https://github.com/goldaj/projects-incubator/blob/main/jeux/speedrun-glitch-platformer.md)
+> Pour l'instant on laisse ça dans l'incubator et on ne code pas. Mais ça sera peut être un des projets sujets auquel on s'attaque.
+>
+> Réfléchis, recherche, détermine la faisabilité. On part de quelque chose de simple mais subtile, comme la complexité d'un SMB3 par exemple, mais sans le copier, juste dans la simplicité je veux dire. Et surtout on veut une satisfaction de vitesse et d'inertie à la sonic, dans anciens jeux 2D.
+> En gros il faut vraiment la fierté de passer les glitchs et la satisfaction du résultat de vitesse qui était coupé dans son élan/impossible à avoir si on avait joué normalement.
+
+**Assistant (résumé reconstruit, non verbatim) :**
+- Lecture des fichiers existants `jeux/speedrun-glitch-platformer.md`, `README.md`, `AGENTS.md`, des conventions de passation et de ce journal.
+- Recherche documentaire sur la physique 2D des premiers Sonic, les techniques de mouvement dans Celeste, le design de vitesse de Pizza Tower et la simulation à pas fixe de Godot. Sources et limites citées dans la fiche.
+- Positionnement recommandé : jeu 2D simple et lisible, mouvement plaisant sans glitch, **glitch exécuté avec les commandes ordinaires**, et surtout conservation de l'élan permettant **une prouesse de vitesse / hauteur normalement interdite**.
+- Proposition de deux techniques **hypothétiques** combinables : `Corner Slip` (franchissement maîtrisé d'une jonction de collision) et `Slope Overflow` (projection exceptionnelle à partir d'une rupture de pente), sans les présenter comme déjà validées.
+- Ajout d'un modèle conceptuel du mouvement, des exigences de caméra, du jeu à trois niveaux de maîtrise, d'un MVP ramené à quatre espaces, de risques, protocoles de validation H1–H5 et plan de reprise futur P0–P6.
+- Distinction expresse entre **faisabilité technique plausible** et **plaisir de jeu non prouvé** ; avertissement sur l'absence de déterminisme multiplateforme automatique et sur la difficulté principale (réglage du mouvement + niveau).
+- **Aucun code, aucun essai réel, aucun dépôt séparé créés.** Mise à jour documentaire uniquement sur `main`. Le projet demeure une fiche à démarrer. Quand il démarrera, transférer le cadrage dans le dépôt dédié et enlever la fiche de l'index.
+- Le texte de ce résumé n'est pas une transcription littérale du message complet de l'assistant ; l'historique préexistant demeure partiel.
