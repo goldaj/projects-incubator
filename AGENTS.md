@@ -2,7 +2,7 @@
 
 ## Avant de travailler
 1. Lire `README.md` et les documents techniques pertinents, puis **`docs/CHATGPT_PROJECT_HISTORY.md`** pour les demandes, décisions et lacunes du contexte.
-2. Index public strictement réservé aux idées NON DÉMARRÉES **et que le propriétaire souhaite réellement conserver comme futurs projets**. Les discussions non destinées à un logiciel, veilles, œuvres déjà engagées et suggestions retirées n'y ont pas leur place. Les projets commencés, y compris avec un simple protocole ou prototype versionné, sont retirés de l'incubateur.
+2. Index public strictement réservé aux idées NON DÉMARRÉES **et que le propriétaire souhaite réellement conserver comme futurs projets**. Les discussions sans intention de projet, veilles, œuvres déjà engagées et suggestions retirées n'y ont pas leur place. **Exception ponctuelle décidée par le propriétaire le 2026-10-26 : une fiche de cadrage de livre pédagogique non commencé peut figurer dans `creatif-et-ecriture/` ; le manuscrit restera hors du dépôt public.** Les projets commencés, y compris avec un simple protocole ou prototype versionné, sont retirés de l'incubateur.
 3. Avant tout ajout, vérifier qu'aucun dépôt Git dédié (même sous un autre nom) n'exécute déjà l'idée. Après démarrage, supprimer la fiche et le lien de navigation ; ne conserver un concept voisin que si son autonomie a été explicitement établie, et non en inventant une différence de périmètre. Ne pas publier de secrets, manuscrits, données privées ou configuration personnelle.
 
 ## Exécution et vérification
