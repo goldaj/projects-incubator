@@ -1,5 +1,7 @@
 # Créatif et écriture
 
-- [La sauvegarde impossible](la-sauvegarde-impossible.md) : idée de fiction fantasy.
+**Aucune idée de projet à démarrer pour le moment.**
 
-Idées non démarrées uniquement. **France 2040** disposait déjà d'un programme de travail et d'un essai *Le Président utile* dans un atelier privé : sa fiche historique a été retirée de l'incubateur. Aucun manuscrit inédit n'est recopié ici.
+Cette catégorie reste volontairement présente dans l'incubateur pour accueillir d'éventuels futurs **projets de création ou outils d'écriture**, après cadrage explicite.
+
+Les discussions littéraires isolées, brouillons et œuvres déjà engagées dans leurs propres dépôts ne sont pas indexés ici.
