@@ -1,6 +1,6 @@
 # Project Incubator | Idées à démarrer
 
-**Index public des projets qui n'ont pas encore démarré.** Chaque fiche correspond à une intention, une hypothèse ou une exploration **sans réalisation déjà engagée dans un dépôt Git**.
+**Index public des projets qui n'ont pas encore démarré (12 idées documentées au 26 octobre 2026).** Chaque fiche correspond à une intention, une hypothèse ou une exploration **sans réalisation déjà engagée dans un dépôt Git**.
 
 ## Règle de présence
 
@@ -30,4 +30,4 @@ Index public : ne publier ni secrets, ni clés API, ni accès, ni données perso
 
 ## Pour Codex et les contributeurs
 
-Lire [AGENTS.md](AGENTS.md) et [le journal de contexte](docs/CHATGPT_PROJECT_HISTORY.md). Les anciennes fiches retirées demeurent accessibles via l'historique Git, sans encombrer l'index courant.
+Lire [AGENTS.md](AGENTS.md) et [le journal de contexte](docs/CHATGPT_PROJECT_HISTORY.md). Les anciennes fiches retirées demeurent accessibles via l'historique Git, sans encombrer l'index courant. Les fiches actuelles explicitent l'origine de l'idée, les cas d'usage, les frontières avec les projets actifs et les inconnues : **les hypothèses ne valent pas confirmation du besoin**.
