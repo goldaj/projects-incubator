@@ -144,7 +144,10 @@ La difficulté initialement pressentie comme « stockage mondial » est à étud
 
 Évaluer coûts fixes (serveur, stockage), coûts variables (VPS/API, sortie réseau, cartes, journalisation, modération, comptes), restrictions SDK, licences, région de traitement des images, verrou fournisseur. **Aucun matériel spécifique ni prix n'est imposé à cette étape.**
 
-## 7. Protocole de recherche AVANT toute décision d'ingénierie
+## 7. Protocole proposé, à exécuter après sortie de l'incubateur
+
+> **Ce document n'atteste aucune expérimentation.** La bibliographie et les questions de cadrage peuvent rester ici. Dès la décision d'exécuter des essais P0-P5 (mesures de terrain, applications concurrentes, benchmarks, simulation de charge), ouvrir le dépôt projet, transférer le protocole et retirer cette fiche de l'incubateur. Les étapes ci-dessous décrivent alors le travail **du futur laboratoire autonome**.
+
 
 **P0 — Bibliographie et test de disponibilité**
 - Tester les apps comparables, relever date/version, plateformes, publication réelle, précision et caractère public/persistant.
@@ -176,7 +179,7 @@ La difficulté initialement pressentie comme « stockage mondial » est à étud
 
 **P5 — Synthèse go / pivot / no-go**
 - Rapport reproductible : données anonymisées, protocoles, échecs, intervalles d'incertitude, mesures, coûts estimés et comparaison concurrentielle.
-- Décider *seulement alors* s'il faut créer un **nouveau dépôt de recherche/produit** et retirer cette fiche de l'incubateur selon les règles du README.
+- Décider *seulement alors* si le **laboratoire autonome déjà créé** doit devenir un produit, pivoter ou s'arrêter. Le dépôt dédié et le retrait de cette fiche de l'incubateur doivent avoir eu lieu **avant les expérimentations**, conformément aux règles du README.
 - Si précision insuffisante : explorer cartes locales partagées, marqueurs visuels temporaires, fusion multi-session, incertitude explicite et cartographie participative. Ne jamais maquiller un échec de localisation en rendu « persistant ».
 
 ## 8. Arbitrages à réserver au chercheur
@@ -191,7 +194,7 @@ La difficulté initialement pressentie comme « stockage mondial » est à étud
 
 ## 9. Critères de sortie de l'incubateur et passation à Codex
 
-Le dossier **n'autorise aucune tâche de développement immédiate**. Le prochain travail souhaitable est une recherche P0 indépendante et un protocole P1 critiquable. Le chercheur doit produire un inventaire sourcé, un tableau avantages/risques par SDK, des incertitudes, puis la grille de mesure. L'ingénieur code **après décision explicite de démarrer** et uniquement les expériences nécessaires.
+Le dossier **n'autorise aucune tâche de développement immédiate dans l'incubateur**. Le prochain travail souhaitable consiste à préparer la bibliographie P0 et un protocole P1 critiquable ; avant de commencer des tests réels, démarrer le projet dans son dépôt autonome. Le chercheur doit produire un inventaire sourcé, un tableau avantages/risques par SDK, des incertitudes, puis la grille de mesure. L'ingénieur code **après décision explicite de démarrer** et uniquement les expériences nécessaires.
 
 À la création d'un véritable dépôt dédié (même uniquement de recherche), **retirer cette entrée et son lien de l'incubateur** ; transférer le document scientifique, les décisions, les mesures et l'historique projet dans le nouveau dépôt. Suivre AGENTS.md et docs/CHATGPT_PROJECT_HISTORY.md pour distinguer demandes exactes, résumés et travaux réellement réalisés.
 
