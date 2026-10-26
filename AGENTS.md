@@ -2,11 +2,12 @@
 
 ## Avant de travailler
 1. Lire `README.md` et les documents techniques pertinents, puis **`docs/CHATGPT_PROJECT_HISTORY.md`** pour les demandes, décisions et lacunes du contexte.
-2. Index public strictement réservé aux idées NON DÉMARRÉES. Les projets commencés, y compris avec un simple protocole ou prototype versionné, sont retirés de l'incubateur.
-3. Avant tout ajout, vérifier qu'aucun dépôt Git dédié (même sous un autre nom) n'exécute déjà l'idée. Après démarrage, supprimer la fiche et le lien de navigation ; préserver les concepts voisins seulement s'ils sont indépendants. Ne pas publier de secrets, manuscrits, données privées ou configuration personnelle.
+2. Index public strictement réservé aux idées NON DÉMARRÉES **et que le propriétaire souhaite réellement conserver comme futurs projets**. Les discussions non destinées à un logiciel, veilles, œuvres déjà engagées et suggestions retirées n'y ont pas leur place. Les projets commencés, y compris avec un simple protocole ou prototype versionné, sont retirés de l'incubateur.
+3. Avant tout ajout, vérifier qu'aucun dépôt Git dédié (même sous un autre nom) n'exécute déjà l'idée. Après démarrage, supprimer la fiche et le lien de navigation ; ne conserver un concept voisin que si son autonomie a été explicitement établie, et non en inventant une différence de périmètre. Ne pas publier de secrets, manuscrits, données privées ou configuration personnelle.
 
 ## Exécution et vérification
-- Valider les liens et le classement des dossiers à chaque ajout ; aucune commande de build générale.
+- Valider **tous les liens relatifs des index**, le nombre de fiches réellement présentes, le classement et les dossiers vides à chaque modification ; aucune commande de build générale.
+- Si une catégorie doit rester volontairement vide, conserver son `README.md` (Git ne versionne pas de dossier vide). Les autres catégories sans fiche active sont à retirer de la navigation et du dépôt.
 - Utiliser de petites modifications contrôlables. Ne pas écraser ni supprimer des fichiers ou anciennes versions sans demande explicite.
 - Distinguer hypothèses, code présent, essais effectivement exécutés et éléments encore à valider.
 
