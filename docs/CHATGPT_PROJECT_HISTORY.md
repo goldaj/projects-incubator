@@ -20,3 +20,20 @@
 - Les passages marqués `verbatim` sont des extraits exacts disponibles dans le contexte ; les résumés ne doivent **jamais** être cités comme du dialogue mot pour mot. Aucune réponse complète de l'assistant n'a été inventée.
 - Pour obtenir l'intégralité des questions, réponses et horodatages : intégrer un export authentique des conversations pertinentes ; conserver l'ordre et le rôle des messages, et expurger avant publication les éléments sensibles et hors projet.
 - En intervention future, ajouter en bas les nouveaux dialogues sourcés et les décisions vérifiées, sans effacer les entrées précédentes. Ce journal et `AGENTS.md` sont versionnés dans Git.
+
+## 2026-10-26 — Laboratoire de sociétés d'agents génératifs (conversation courante)
+
+**Utilisateur (verbatim, premier message ; heure non attestée) :**
+> tu vois le sujet de l'expérience concernée par cette vidéo youtube ?
+> [https://www.youtube.com/watch?v=jRBUHrusAyk](https://www.youtube.com/watch?v=jRBUHrusAyk)
+> Est-ce que tu peux me résumer le contexte et les enjeux succintement ?
+> Est-ce que tu sais s'il existe un repo public pour reproduire l'expérience ?
+
+**Assistant (résumé reconstruit, non verbatim) :** identification de Smallville/Generative Agents (2023), Project Sid et de travaux distincts sur les agents simulant des réponses humaines ; renvoi au code Stanford et à ses limites.
+
+**Utilisateur (verbatim, demande d'ajout au dépôt ; heure non attestée) :**
+> rajoute une entrée dans le repo du project incubator qui va dans le sens de la réalisation de ce projet, en poussant un peu plus loin la réfléxion scientifique et ce qu'on peut faire avec les IA d'aujourd'hui ; sur une machine modeste, puis sur une machine plus grosse (dite de "professionnel")
+
+**Assistant (résumé reconstruit, non verbatim) :** cadrage d'un programme de recherche multi-agents. Nouvelle fiche [laboratoire-societes-agents-generatifs](../ia-et-multimedia/laboratoire-societes-agents-generatifs.md) : hypothèses falsifiables, ablations mémoire/réflexion, validité sociale, rumeurs, contraintes, modèles ouverts locaux et station professionnelle, architecture hybride et étapes P0–P6. Aucune simulation ni aucun benchmark matériel exécuté.
+
+**Fidélité :** les textes Utilisateur ci-dessus viennent de la conversation accessible ; les résumés Assistant ne prétendent pas être une transcription intégrale. Heure exacte non attestée. L'historique des anciens chats reste partiel.

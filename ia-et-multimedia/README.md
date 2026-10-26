@@ -11,3 +11,4 @@ Chaque fiche précise son état : idée, recherche, source retrouvée, prototype
 - [Compagnon d’inférence](inference-companion-lab.md) — programme de recherche et protocole.
 
 - [Bot de chat Twitch et commandes](twitch-pokemon-chat-bot.md) — prototype asynchrone et OAuth.
+- [Laboratoire de sociétés d'agents génératifs](laboratoire-societes-agents-generatifs.md) — reproduction critique de Smallville, protocole scientifique et deux paliers matériels (recherche, non implémenté).
