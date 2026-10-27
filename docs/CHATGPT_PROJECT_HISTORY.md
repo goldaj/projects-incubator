@@ -166,3 +166,16 @@ Cette décision de classement **prime sur la liste historique des chemins d'orig
 - Distinction expresse entre **faisabilité technique plausible** et **plaisir de jeu non prouvé** ; avertissement sur l'absence de déterminisme multiplateforme automatique et sur la difficulté principale (réglage du mouvement + niveau).
 - **Aucun code, aucun essai réel, aucun dépôt séparé créés.** Mise à jour documentaire uniquement sur `main`. Le projet demeure une fiche à démarrer. Quand il démarrera, transférer le cadrage dans le dépôt dédié et enlever la fiche de l'index.
 - Le texte de ce résumé n'est pas une transcription littérale du message complet de l'assistant ; l'historique préexistant demeure partiel.
+
+## 2026-10-27 — Glitch Runner quitte l'incubateur pour un dépôt autonome
+
+**Utilisateur (verbatim, heure exacte non attestée) :**
+> j'ai créé ce repo : [https://github.com/goldaj/glitch_runner](https://github.com/goldaj/glitch_runner)
+> On va commencer à bosser sérieusement dessus.
+> On prends les mêmes consignes que toutes les conversations qu'on a eu ensemble du type "Avancement_projets_codex_8"
+>
+> Et en avance !
+
+**Assistant (résumé reconstruit, non verbatim) :** dépôt confirmé ; création de branche de développement `feat/foundation-movement-p1`, copie intégrale du concept vers [docs/INCUBATOR_CONCEPT.md](https://github.com/goldaj/glitch_runner/blob/feat/foundation-movement-p1/docs/INCUBATOR_CONCEPT.md), plan scientifique, AGENTS, historique, laboratoire Godot P1 avec tests et CI. Aucune validation du game feel revendiquée. Retrait de la fiche d'idée et de sa navigation sur branche distincte `chore/graduate-glitch-runner`, destinée à PR **sans fusion automatique**. Les anciennes sections de ce fichier décrivent l'incubation historique, non l'état présent.
+
+**Source de vérité après migration :** https://github.com/goldaj/glitch_runner ; l'ancien concept demeure dans l'historique Git et dans la copie figée du nouveau dépôt.
