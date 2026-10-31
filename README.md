@@ -1,6 +1,6 @@
 # Project Incubator | Idées à démarrer
 
-**Index public de 13 projets envisagés (mise à jour du 26 octobre 2026).** Il référence des idées explicitement retenues pour un éventuel démarrage, sans dépôt dédié actif. **12 idées de logiciels / jeux et 1 livre pédagogique expressément demandé.** Un simple thème de conversation n'est pas un projet.
+**Index public de 16 projets envisagés (mise à jour du 31 octobre 2026).** Il référence des idées explicitement retenues pour un éventuel démarrage, sans dépôt dédié actif. **14 idées de logiciels / jeux (dont IA), 1 programme de recherche scientifique et 1 livre pédagogique expressément demandé.** Un simple thème de conversation n'est pas un projet.
 
 ## Règle de présence
 
@@ -14,7 +14,9 @@
 
 | Catégorie | Idées | Périmètre |
 | --- | ---: | --- |
-| [IA et multimédia](ia-et-multimedia/) | 4 | Agents simulés, peinture AR, formations IA et images synthétiques interactives |
+| [IA et multimédia](ia-et-multimedia/) | 5 | Agents simulés, peinture AR, formations IA, images synthétiques et agent de test de jeux |
+| [Recherche et innovation](recherche-et-innovation/) | 1 | Réévaluation scientifique d'inventions historiques abandonnées (RETRO-LAB) |
+| [Outils logiciels et productivité](outils-et-productivite/) | 1 | Prévisions probabilistes et calibration des jugements (FUTURE LEDGER) |
 | [Infrastructure et médias](infrastructure-et-medias/) | 1 | Laboratoire IPTV personnel et légal |
 | [Communautés et échanges](communautes-et-echanges/) | 1 | Entraide locale avec crédits-temps partagés |
 | [Finance et crypto](finance-et-crypto/) | 3 | Scanner de marchés insolites, achat BTC simplifié et apprentissage ludique de la crypto |

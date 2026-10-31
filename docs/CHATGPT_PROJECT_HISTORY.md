@@ -2,9 +2,15 @@
 
 **Initialisé le 2026-10-24. Couverture : partielle, sauf les sources originales référencées explicitement.** Codex doit lire ce fichier après `AGENTS.md` et avant toute reprise du projet. Une mémoire reconstruite n'est pas la totalité du chat.
 
-## État courant de référence — revue du 26 octobre 2026
+## État actuel confirmé — 31 octobre 2026
 
-Ce paragraphe fait foi **pour le contenu actif de l'incubateur à cette date** ; les sections historiques plus bas décrivent les décisions et problèmes rencontrés à leur époque, et peuvent avoir été résolus depuis.
+- Le catalogue compte **16 fiches actives** : IA et multimédia (5), recherche et innovation (1), outils logiciels et productivité (1), infrastructure et médias (1), communautés et échanges (1), finance et crypto (3), jeux (3), créatif et écriture (1). Ce total provient du relevé des fichiers de la branche principale, pas des décomptes historiques ci-dessous.
+- Trois idées explicitement retenues ont été ajoutées : [RETRO-LAB](../recherche-et-innovation/retro-lab.md), [AUTOPLAY](../ia-et-multimedia/autoplay-qa-agent.md) et [FUTURE LEDGER](../outils-et-productivite/future-ledger.md). Aucun dépôt autonome ni expérimentation n'est créé par cette opération.
+- Les passages antérieurs qui citent 14 idées décrivent des étapes historiques ; ils ne doivent pas écraser les index actuels.
+
+## État historique — revue du 26 octobre 2026
+
+Cette section documente le contenu actif tel qu'il était décrit à la date indiquée ; se référer à l'état actuel ci-dessus pour le catalogue en vigueur.
 
 - **Quatorze idées retenues**, réparties entre `ia-et-multimedia/` (4), `infrastructure-et-medias/` (1), `communautes-et-echanges/` (1), `finance-et-crypto/` (3), `jeux/` (4) et `creatif-et-ecriture/` (1). La catégorie `education-et-pedagogie/` a été retirée après transfert de sa seule fiche.
 - **Catégorie `creatif-et-ecriture/` réutilisée** pour l'idée de livre pédagogique sur l'investissement destinée à la famille, **exception éditoriale explicitement voulue** et non manuscrit déjà engagé.
@@ -179,3 +185,31 @@ Cette décision de classement **prime sur la liste historique des chemins d'orig
 **Assistant (résumé reconstruit, non verbatim) :** dépôt confirmé ; création de branche de développement `feat/foundation-movement-p1`, copie intégrale du concept vers [docs/INCUBATOR_CONCEPT.md](https://github.com/goldaj/glitch_runner/blob/feat/foundation-movement-p1/docs/INCUBATOR_CONCEPT.md), plan scientifique, AGENTS, historique, laboratoire Godot P1 avec tests et CI. Aucune validation du game feel revendiquée. Retrait de la fiche d'idée et de sa navigation sur branche distincte `chore/graduate-glitch-runner`, destinée à PR **sans fusion automatique**. Les anciennes sections de ce fichier décrivent l'incubation historique, non l'état présent.
 
 **Source de vérité après migration :** https://github.com/goldaj/glitch_runner ; l'ancien concept demeure dans l'historique Git et dans la copie figée du nouveau dépôt.
+
+## 2026-10-31 — Sélection puis inscription de trois nouveaux projets
+
+**Source :** conversation visible « Avancement pour Codex », messages disponibles dans cette session. Texte cité uniquement quand il est accessible ; heure précise non attestée.
+
+**Utilisateur (verbatim) :**
+> Avec tout ce que tu sais de moi et de mes projets déjà en cours sur GitHub, propose moi 3 nouveaux sujets ; 1 de recherche, 1 d'IA, 1 de développement de logiciel
+
+**Assistant (résumé reconstruit, non verbatim) :** propositions initiales RETRO-LAB, AUTOPLAY et Romance Radar ; rapprochement des dépôts actifs et des idées déjà enregistrées.
+
+**Utilisateur (verbatim) :**
+> Non romance radar c'est nul. Fait 3 autres propositions pour remplacer ce sujet là
+
+**Assistant (résumé reconstruit, non verbatim) :** trois alternatives logicielles : REPLAY, PAGE ZERO et FUTURE LEDGER.
+
+**Utilisateur (verbatim) :**
+> On part sur le 3.
+> Garde du coup les 2 premières idées, puis là la 3e proposition pour la 3e idée.
+> Recupitule moi ça
+
+**Assistant (résumé reconstruit, non verbatim) :** confirmation du trio RETRO-LAB (recherche), AUTOPLAY (IA) et FUTURE LEDGER (logiciel). Romance Radar est rejeté ; REPLAY et PAGE ZERO ne sont pas sélectionnés ici.
+
+**Utilisateur (verbatim) :**
+> Good. Enregistre ces 3 idées dans GitHub sur l'incubator et développe un peu les sujets
+
+**Assistant (résumé du travail réalisé) :** trois fiches autonomes avec vision, premières fonctionnalités, méthode d'évaluation, MVP, limites, distinction des dépôts existants et questions ouvertes. Mise à jour des index et des décomptes. Travail **documentaire uniquement** dans l'incubateur ; les dépôts suggérés ne sont pas créés.
+
+**Reprise Codex :** pour chaque idée choisie au démarrage, créer un dépôt dédié et y transférer la fiche avant de démarrer une recherche versionnée ou le développement ; retirer alors la fiche des index de l'incubateur. Ne pas confondre hypothèse et validation obtenue.
