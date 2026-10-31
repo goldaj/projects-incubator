@@ -213,3 +213,23 @@ Cette décision de classement **prime sur la liste historique des chemins d'orig
 **Assistant (résumé du travail réalisé) :** trois fiches autonomes avec vision, premières fonctionnalités, méthode d'évaluation, MVP, limites, distinction des dépôts existants et questions ouvertes. Mise à jour des index et des décomptes. Travail **documentaire uniquement** dans l'incubateur ; les dépôts suggérés ne sont pas créés.
 
 **Reprise Codex :** pour chaque idée choisie au démarrage, créer un dépôt dédié et y transférer la fiche avant de démarrer une recherche versionnée ou le développement ; retirer alors la fiche des index de l'incubateur. Ne pas confondre hypothèse et validation obtenue.
+
+## 2026-10-31 — Transfert de la recherche expérimentale de prompt engineering depuis Notepad
+
+**Utilisateur (verbatim ; heure exacte non attestée) :**
+> Déplace la recherche sur les prompts vers l'incubator et démarre une première analyse un peu poussée de l'état de l'art de ce qu'on peut faire pour aller plus loin
+
+**Utilisateur (verbatim ; précision en cours de tâche, heure exacte non attestée) :**
+> Objectif chez nous : optimiser pour les dernières IA d'openAI (6 astra, 6.1 sol et 6.1 terra), optimiser de façon générale, et à terme optimiser pour Jade quand elle aura son propre moteur d'inférence
+
+**Assistant (résumé du travail documentaire, non verbatim) :**
+- Lecture de la source privée Notepad N-0003 / B-0011, sans dupliquer le verbatim de la note dans le dépôt public.
+- Confirmation qu'aucune fiche active équivalente n'était déjà indexée sur la branche main de projects-incubator.
+- Ajout de [Prompt Engineering Lab](../recherche-et-innovation/prompt-engineering-experimental.md) et de [son état de l'art préliminaire](../recherche-et-innovation/etat-art-prompt-engineering-2026-10-31.md).
+- Ciblage explicite GPT-6 Astra, GPT-6.1 Sol, GPT-6.1 Terra, généralisation, puis transfert vers Jade une fois son moteur d'inférence propre disponible.
+- Revue documentaire des techniques et limites : taxonomies, chain-of-thought, long contexte, APE, OPRO, DSPy, GEPA, guidance OpenAI GPT-6, evals, coût et protocole scientifique ; références externes et hypothèses vérifiables.
+- Actualisation des deux index de l'incubateur (17 idées, dont 2 programmes de recherche).
+- Actualisation du statut N-0003 de Notepad en « transférée vers l'incubateur, non démarrée », en conservant la source historique B-0011 et sans créer de faux compte rendu expérimental.
+- Aucun code d'expérience, appel d'inférence comparatif, banc de test exécuté ni dépôt de recherche autonome créé par ce travail : cette intervention est une **étude préalable à une éventuelle décision de lancement**, selon les règles de l'incubateur.
+
+**Point de reprise :** au lancement de la recherche effectivement expérimentale, créer le dépôt dédié, transférer les documents, définir les accès/budgets et préenregistrer les tests ; retirer alors la fiche et ses liens de navigation de l'incubateur. Ne pas inférer les résultats sur Astra/Sol/Terra/Jade de publications sur d'anciens modèles.
