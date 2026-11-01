@@ -261,3 +261,22 @@ Cette décision de classement **prime sur la liste historique des chemins d'orig
 > Puis démarre déjà cette recherche. Va loin. Prends ton temps étape par étape comme un vrai chercheur. Organise bien ton travail et tes CR. Puis continue de chercher toujours plus loin.
 
 **Assistant (résumé factuel de l'exécution) :** création/initialisation dans https://github.com/goldaj/recherche_anciens-brevets ; copie **identique** de `recherche-et-innovation/retro-lab.md` vers `archives/RETRO-LAB_FICHE_ORIGINALE_2026-10-31.md` (SHA blob identique : `de1445ec964eb0479be53549a476a728f32d0698`) ; création du protocole, du registre de sources, d'une première revue de 12 brevets, d'un premier modèle théorique Flettner et 35 simulations de sensibilité avec six tests réussis. Ce transfert rend la fiche inactive dans l'incubateur, d'où sa suppression de l'index et du fichier actif. L'historique Git conserve les versions passées. Les paramètres du modèle sont illustratifs, non calibrés sur un navire.
+
+## 2026-11-01 — Transfert de l'outillage de récits entrelacés depuis Notepad et étude documentaire
+
+**Source :** projet ChatGPT « Avancement pour Codex » ; note privée conservée dans `goldaj/Notepad` sous ID B-0022. Le texte original de B-0022 **n'est pas reproduit dans ce dépôt public**.
+
+**Utilisateur (verbatim, date 2026-11-01 Europe/Paris, heure exacte non certifiée) :**
+
+> ok on va prendre le projet d'outillage et le passer du notepad à l'incubator. Tu en profiteras pour commencer l'analyse, la recherche d'outils nécessaires, la recherche d'outils existants parmis ce qu'on a besoin et à trouver toute une liste de pistes pour faire tout ce qu'on devra faire. La problème n'est pas forcément la quantité de narration, mais trouver comment avoir des histoires différentes qui se recoupent à plusieurs endroits et se croisent et s'entremelent, tout en gardant une cohérence et un intérêt de lecture. Ainsi que la partie industrialisation pour avancer rapidement sur les différentes étapes.
+
+**Assistant (résumé reconstruit, non verbatim) :**
+
+- Périmètre autonome **outillage d'auteurs, de validation et de chaîne de production**, et non duplication du jeu [Romance Multiverse](../jeux/romance-routes-collection.md).
+- Création de la [fiche d'incubation](../outils-et-productivite/atelier-recits-entrelaces.md), [étude comparative et architecture](../outils-et-productivite/etude-recits-entrelaces-2026-11-01.md), [exemple narratif de divergence/reconvergence](../outils-et-productivite/exemple-reconvergence-recits-2026-11-01.md).
+- Recherche documentaire sur ink/Inky/inkjs, Yarn Spinner (storylets et saliency), Ren'Py, Twine/Tweego, articy:draft, Arcweave, Godot Dialogue Manager, ChoiceScript, NetworkX et Z3 ; sources officielles citées dans l'étude.
+- Priorité à la **conservation de l'état, connaissances par personnage, causalité, croisements de fils, contrats de jonction, simulateur et rapports de contre-exemples**, avant les outils de génération massive de narration.
+- Index et décomptes actualisés ; lien croisé depuis le jeu parent.
+- **Aucun code, essai moteur, benchmark ou prototype n'a été exécuté**. Tous les résultats et choix techniques demeurent hypothétiques et documentaires.
+
+**Consignes de reprise :** exécuter un benchmark contrôlé sur un même cas avec deux moteurs narratifs, vérifier licences/coûts/compatibilités, commencer par le modèle d'état et la comparaison d'historiques. En cas de lancement effectif, créer un dépôt dédié et retirer la fiche de l'incubateur. Ne pas recopier le texte privé de Notepad dans un historique public.

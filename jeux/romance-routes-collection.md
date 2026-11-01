@@ -29,3 +29,7 @@ Coût énorme d'écriture, QA de branches, incohérences de personnage, changeme
 
 ## Points à décider
 Univers contemporain ou multivers ? Un protagoniste fixe ou personnalisé ? Jeu plutôt humour/romance, avec routes d'horreur rares, ou toutes les ambiances également importantes ? Génération IA assistée ou écriture humaine comme source de vérité ?
+
+## Outillage narratif associé (étude initiale)
+
+Une initiative d'outillage distincte, [Narrative Weave Lab](../outils-et-productivite/atelier-recits-entrelaces.md), est désormais incubée pour concevoir et vérifier **les croisements et reconvergences d'histoires**, avec [étude d'outils existants](../outils-et-productivite/etude-recits-entrelaces-2026-11-01.md) et [scénario d'essai](../outils-et-productivite/exemple-reconvergence-recits-2026-11-01.md). Les deux projets restent non démarrés ; l'étude documentaire ne constitue pas un prototype.
