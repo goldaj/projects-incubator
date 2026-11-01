@@ -233,3 +233,22 @@ Cette décision de classement **prime sur la liste historique des chemins d'orig
 - Aucun code d'expérience, appel d'inférence comparatif, banc de test exécuté ni dépôt de recherche autonome créé par ce travail : cette intervention est une **étude préalable à une éventuelle décision de lancement**, selon les règles de l'incubateur.
 
 **Point de reprise :** au lancement de la recherche effectivement expérimentale, créer le dépôt dédié, transférer les documents, définir les accès/budgets et préenregistrer les tests ; retirer alors la fiche et ses liens de navigation de l'incubateur. Ne pas inférer les résultats sur Astra/Sol/Terra/Jade de publications sur d'anciens modèles.
+
+
+## 2026-11-01 — Transfert de l'idée N-0001 et étude documentaire de l'orchestration R&D
+
+**Source :** revue mensuelle de novembre de Notepad, suivie du message de la présente conversation. Cette archive publique contient la décision utile mais pas la transcription des autres notes privées.
+
+**Utilisateur (verbatim, date 2026-11-01 Europe/Paris ; heure exacte non attestée) :**
+> Tu réalises toi-même la phase d'étude du coup. Passant ce sujet de bloc-note à l'incubator et en développant les réflexions. Fait l'étude, quoi.
+
+**Assistant (résumé reconstruit, non verbatim)** :
+- Lecture du cadrage N-0001 dans Notepad, des règles et de la structure de l'incubateur, recherche de doublons par noms de dépôts, puis consultation de sources techniques publiques à jour (Codex SDK/CLI, authentification, Agents SDK, Responses API, modèles/tarifs, GitHub Actions et sécurité).
+- Transfert de N-0001 dans [outils et productivité](../outils-et-productivite/orchestrateur-rd-multi-agents.md) avec [étude technique détaillée](../outils-et-productivite/etude-orchestration-agents-2026-11-01.md).
+- Conclusion **documentaire** : commencer par un protocole Git-first de passation, comparer ensuite un coordinateur léger utilisant Codex et des APIs autorisées ; ne pas dépendre d'un relais automatique des quotas ChatGPT grand public. La faisabilité sur un environnement réel demeure à tester.
+- Architecture conceptuelle, état de tâches, mécanismes de reprise et d'idempotence, risques, coûts indicatifs catalogue, contrat de passation, garde-fous et protocole de 12 tâches comparatives documentés.
+- Aucun code, accès au VPS, essai de modèle, traitement de credentials, mesure de performance ni déploiement. Les estimations et seuils sont **des hypothèses**. Aucun nouveau dépôt logiciel dédié n'a été créé.
+- Mise à jour de l'index : **18 idées**, dont **2 outils et productivité**.
+- Le registre privé Notepad doit garder la note d'origine et refléter le transfert, sans compter un report ni reproposer N-0001 tant que le sujet est incubé.
+
+**Reprise à la décision de lancement :** réaliser en dépôt dédié une baseline Git-first avant tout composant multi-agent ; la fiche d'idée quittera alors l'incubateur actif. Vérifier et dater à nouveau les capacités des modèles, SDK et licences. L'historique de la source privée reste incomplet et n'est pas publié dans ce dépôt.
