@@ -252,3 +252,12 @@ Cette décision de classement **prime sur la liste historique des chemins d'orig
 - Le registre privé Notepad doit garder la note d'origine et refléter le transfert, sans compter un report ni reproposer N-0001 tant que le sujet est incubé.
 
 **Reprise à la décision de lancement :** réaliser en dépôt dédié une baseline Git-first avant tout composant multi-agent ; la fiche d'idée quittera alors l'incubateur actif. Vérifier et dater à nouveau les capacités des modèles, SDK et licences. L'historique de la source privée reste incomplet et n'est pas publié dans ce dépôt.
+
+## 2026-11-01 — Promotion RETRO-LAB vers dépôt autonome (résumé reconstruit, non verbatim, sauf demande utilisateur)
+**Utilisateur (verbatim pour la demande de ce jour) :**
+> J'ai créé le repo recherche_anciens-brevets
+> Tu peux déplacer la recherche d'anciens brevets qui peuvent devenir utiles de l'incubator vers ce repo.
+> Supprime le ensuite de l'incubator.
+> Puis démarre déjà cette recherche. Va loin. Prends ton temps étape par étape comme un vrai chercheur. Organise bien ton travail et tes CR. Puis continue de chercher toujours plus loin.
+
+**Assistant (résumé factuel de l'exécution) :** création/initialisation dans https://github.com/goldaj/recherche_anciens-brevets ; copie **identique** de `recherche-et-innovation/retro-lab.md` vers `archives/RETRO-LAB_FICHE_ORIGINALE_2026-10-31.md` (SHA blob identique : `de1445ec964eb0479be53549a476a728f32d0698`) ; création du protocole, du registre de sources, d'une première revue de 12 brevets, d'un premier modèle théorique Flettner et 35 simulations de sensibilité avec six tests réussis. Ce transfert rend la fiche inactive dans l'incubateur, d'où sa suppression de l'index et du fichier actif. L'historique Git conserve les versions passées. Les paramètres du modèle sont illustratifs, non calibrés sur un navire.

@@ -1,6 +1,6 @@
 # Project Incubator | Idées à démarrer
 
-**Index public de 18 projets envisagés (mise à jour du 1er novembre 2026).** Il référence des idées explicitement retenues pour un éventuel démarrage, sans dépôt dédié actif. **15 idées de logiciels / jeux (dont IA), 2 programmes de recherche scientifique et 1 livre pédagogique expressément demandé.** Un simple thème de conversation n'est pas un projet.
+**Index public de 17 projets envisagés (mise à jour du 1er novembre 2026).** Il référence des idées explicitement retenues pour un éventuel démarrage, sans dépôt dédié actif. **15 idées de logiciels / jeux (dont IA), 1 programme de recherche scientifique et 1 livre pédagogique expressément demandé.** Un simple thème de conversation n'est pas un projet.
 
 ## Règle de présence
 
@@ -15,7 +15,7 @@
 | Catégorie | Idées | Périmètre |
 | --- | ---: | --- |
 | [IA et multimédia](ia-et-multimedia/) | 5 | Agents simulés, peinture AR, formations IA, images synthétiques et agent de test de jeux |
-| [Recherche et innovation](recherche-et-innovation/) | 2 | RETRO-LAB (inventions oubliées) et Prompt Engineering Lab (Astra, Sol, Terra ; transférabilité vers Jade) |
+| [Recherche et innovation](recherche-et-innovation/) | 1 | Prompt Engineering Lab (Astra, Sol, Terra ; transférabilité vers Jade) |
 | [Outils logiciels et productivité](outils-et-productivite/) | 2 | FUTURE LEDGER (calibration) et orchestrateur léger de continuité R&D multi-agents (N-0001, étude préalable) |
 | [Infrastructure et médias](infrastructure-et-medias/) | 1 | Laboratoire IPTV personnel et légal |
 | [Communautés et échanges](communautes-et-echanges/) | 1 | Entraide locale avec crédits-temps partagés |
