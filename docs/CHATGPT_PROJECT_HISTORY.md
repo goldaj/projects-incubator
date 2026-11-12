@@ -280,3 +280,28 @@ Cette décision de classement **prime sur la liste historique des chemins d'orig
 - **Aucun code, essai moteur, benchmark ou prototype n'a été exécuté**. Tous les résultats et choix techniques demeurent hypothétiques et documentaires.
 
 **Consignes de reprise :** exécuter un benchmark contrôlé sur un même cas avec deux moteurs narratifs, vérifier licences/coûts/compatibilités, commencer par le modèle d'état et la comparaison d'historiques. En cas de lancement effectif, créer un dépôt dédié et retirer la fiche de l'incubateur. Ne pas recopier le texte privé de Notepad dans un historique public.
+
+
+## 2026-11-12 — Incubation de One Minute Empire
+
+**Source :** échange ChatGPT disponible sur une idée de jeu, date 2026-11-12 (Europe/Paris). Seule la partie directement accessible de cet échange est résumée ici ; l'historique exhaustif d'échanges anciens n'est pas garanti.
+
+**Utilisateur (verbatim, 2026-11-12 ; heure non attestée pour ce message) :**
+> 5. One Minute Empire : un jeu de gestion où tu ne peux prendre qu'une décision par jour. Ton empire évolue pendant 24 heures, avec des conséquences parfois inattendues. Une partie dure plusieurs mois.
+>
+> J'aime bien l'idée, développe un peu
+
+**Assistant (résumé reconstruit, non verbatim) :**
+- Proposition d'une campagne de civilisation sur 90 jours, une décision unique par cycle de 24 heures, sessions d'environ une minute ; monde autonome, conséquences différées, chronique de fin et identité émergente de l'empire.
+- Exemple d'une sécheresse et du choix d'un canal, dont les effets se manifestent plus tard ; variantes de diplomatie asynchrone et d'héritage entre campagnes (« Échos de l'Histoire »).
+- MVP suggéré : jeu web/PWA solo, quelques indicateurs, événements à embranchements, simulation par règles, sans multijoueur ou IA générative obligatoire.
+- Ces pistes sont des **hypothèses de conception** ; aucun prototype, test, étude de marché, validation technique ou dépôt dédié n'est connu comme ayant été réalisé pour cette idée.
+
+**Utilisateur (verbatim, 2026-11-12 Europe/Paris) :**
+> C'est intéressant, mets moi cette idée dans l'incubator
+
+**Assistant (résumé factuel de l'intervention, non verbatim) :**
+- Vérification de la structure existante et recherche d'un dépôt homonyme accessible, sans résultat.
+- Création de la fiche [One Minute Empire](../jeux/one-minute-empire.md) dans la catégorie jeux et mise à jour des index (19 idées, dont 4 jeux).
+- Distinction explicite avec « Idle: Don't Play », fondé sur la récompense de l'absence : ici, le joueur construit une civilisation par décisions quotidiennes rares.
+- **Pas de développement engagé** : la fiche reste à l'incubateur jusqu'au véritable démarrage d'un projet autonome.
